@@ -1,4 +1,5 @@
 ﻿@model string
+@using HelperMethods.Infrastructure
 
 @{
     Layout = null;
@@ -12,23 +13,15 @@
     <title>Index</title>
 </head>
 <body>
-    <div>
-        Here are the fruits:
-        @foreach (string str in (string[])ViewBag.Fruits)
-        {
-            <b>@str</b>
-        }
-    </div>
-    <div>
-        Here are the cities:
-        @foreach (string str in (string[])ViewBag.Cities)
-        {
-            <b>@str</b>
-        }
-    </div>
-    <div>
+    <p>This is the content from the view</p>
+    <div style="border: thin solid black; padding: 10px">
         Here is the message:
         <p>@Model</p>
+    </div>
+
+    <p>This is the content from the helper method:</p>
+    <div style="border: thin solid black; padding: 10px">
+        @Html.DisplayMessage(Model)
     </div>
 </body>
 </html>

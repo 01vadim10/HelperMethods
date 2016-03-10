@@ -41,3 +41,46 @@ D:\Job\C# Learning\HelperMethods\HelperMethods\bin\ru\System.Web.WebPages.Razor.
 D:\Job\C# Learning\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
 D:\Job\C# Learning\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
 D:\Job\C# Learning\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\HelperMethods.dll.config
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\HelperMethods.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\HelperMethods.pdb
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\Antlr3.Runtime.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\EntityFramework.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\Microsoft.Web.Infrastructure.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\Newtonsoft.Json.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Http.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Mvc.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Optimization.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Providers.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Razor.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.WebPages.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\WebGrease.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\EntityFramework.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\Newtonsoft.Json.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Http.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Mvc.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.Razor.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.WebPages.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.xml
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\EntityFramework.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Net.Http.Formatting.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.Http.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.Http.WebHost.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.Mvc.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.Optimization.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.Providers.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.Razor.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.WebPages.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+d:\Work\Projects\C#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
+d:\Work\Projects\C#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
