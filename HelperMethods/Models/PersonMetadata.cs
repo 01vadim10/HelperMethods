@@ -6,7 +6,7 @@ using System.Web.Mvc;
 namespace HelperMethods.Models
 {
     [DisplayName("New Person")]
-    public partial class PersonMetadata
+    public partial class PersonMetaData
     {
         [HiddenInput(DisplayValue = false)]
         public int PersonId { get; set; }
@@ -23,5 +23,8 @@ namespace HelperMethods.Models
 
         [Display(Name = "Approved")]
         public bool IsApproved { get; set; }
+
+        [UIHint("Enum")]
+        public Role Role { get; set; }
     }
 }

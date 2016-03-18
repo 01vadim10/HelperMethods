@@ -127,12 +127,13 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PeopleController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\CustomHelpers.cs" />
     <Compile Include="Models\Person.cs" />
-    <Compile Include="Models\PersonMetadata.cs" />
+    <Compile Include="Models\PersonMetaData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -224,6 +225,10 @@
     <Content Include="Views\Home\DisplayPerson.cshtml" />
     <Content Include="Views\Shared\EditorTemplates\Role.cshtml" />
     <Content Include="Views\Shared\EditorTemplates\Enum.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\Boolean.cshtml" />
+    <Content Include="Views\People\Index.cshtml" />
+    <Content Include="Views\People\GetPeople.cshtml" />
+    <Content Include="Views\People\GetPeopleData.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
